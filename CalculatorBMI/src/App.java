@@ -13,13 +13,13 @@ public class App {
         double imc = weight / (height*height);
 
         if (imc < 18.5){
-            System.out.println("You are underweight, your BMI is: " + imc);
+            System.out.printf("You are underweight, your BMI is: %.1f%n" , imc);
         } else if (imc >= 18.5 && imc <= 24.9){
-            System.out.println("You are normal weight, your BMI is: " + imc);
+            System.out.printf("You are normal weight, your BMI is: %.1f%n" ,imc);
         } else if (imc >= 25 && imc < 29.9){
-            System.out.println("You are overweight, your BMI is: " + imc);
+            System.out.printf("You are overweight, your BMI is: %.1f%n" , imc);
         } else {
-            System.out.println("You are obese, your BMI is: " + imc);
+            System.out.printf("You are obese, your BMI is: %.1f%n" , imc);
         }
 
         scanner.close();
