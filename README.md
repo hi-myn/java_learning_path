@@ -35,6 +35,10 @@ Each folder represents a **project-theme** with a specific exercise. The main so
    A Java program that checks if a product exists in a catalog, allows price updates, and classifies products based on price range.  
    📌 Key concepts: `String comparison (equalsIgnoreCase)`, `nested conditionals`, `ternary operator`, `user input validation`, `price categorization`.
 
+5. **Temperature Converter**  
+   A Java program that converts temperatures between Celsius and Fahrenheit scales based on user selection.  
+   📌 Key concepts: `modular methods`, `user-driven menu`, `mathematical conversions`, `input validation`.
+
 
 ## 🔄 Development Process
 
