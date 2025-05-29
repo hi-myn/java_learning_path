@@ -39,6 +39,10 @@ Each folder represents a **project-theme** with a specific exercise. The main so
    A Java program that converts temperatures between Celsius and Fahrenheit scales based on user selection.  
    📌 Key concepts: `modular methods`, `user-driven menu`, `mathematical conversions`, `input validation`.
 
+4. **Letter Counter**  
+   A Java program that counts letters in user-input sentences (ignoring spaces) with repeat functionality.
+   📌 Key concepts: `string manipulation`, `loops (do-while)`, `modular methods`, `user input handling`.
+
 
 ## 🔄 Development Process
 
