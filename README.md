@@ -47,6 +47,10 @@ Each folder represents a **project-theme** with a specific exercise. The main so
    A Java program that performs the four basic arithmetic operations (addition, subtraction, multiplication, and division) based on user input.
    📌 Key concepts: `modular methods`, `switch statement`, `input validation`, `floating-point arithmetic`.
 
+8. **Number Guessing Game**  
+   A Java game where players try to guess a randomly generated number between 0-100 with hints for incorrect attempts.
+   📌 Key concepts: `random number generation`, `while loops`, `conditional logic`, `user input handling`, `attempt counter`.
+
 
 ## 🔄 Development Process
 
