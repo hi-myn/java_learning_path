@@ -31,18 +31,17 @@ public class App {
                     result = division(num1, num2);
                 } else {
                     System.out.println("Invalid operation");
-                    scanner.close();
                     return;
                 }
                 break;
             default:
                 System.out.println("Invalid operation");
-                scanner.close();
                 return;
         }
 
         System.out.printf("%.1f %s %.1f = %.1f", num1, operation, num2, result);
 
+        scanner.close();
     }
 
     public static double sum(double a, double b) {
